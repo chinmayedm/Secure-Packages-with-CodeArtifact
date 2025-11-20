@@ -75,4 +75,4 @@ This ensures they have appropriate access to resources like CodeArtifact, EC2, o
 
 I defined my IAM policy using JSON.
 This policy allows access to AWS CodeArtifact, including retrieving and publishing packages.
-![IAM policies]()
+![IAM policies](https://github.com/chinmayedm/Secure-Packages-with-CodeArtifact/blob/main/Screenshot%202025-11-20%20at%2010.46.25.png?raw=true)
