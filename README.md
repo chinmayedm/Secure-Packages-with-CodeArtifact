@@ -1,4 +1,5 @@
 # Secure Packages with CodeArtifact
+![codeartifact](https://github.com/chinmayedm/Secure-Packages-with-CodeArtifact/blob/main/Screenshot%202025-11-20%20at%2010.42.14.png?raw=true)
 
 # What is AWS CodeArtifact?
 
@@ -27,6 +28,7 @@ It serves as the primary source of code updates and allows developers to sync th
 
 The public repository is a Git repository accessible to anyone on platforms like GitHub.
 It allows open-source collaboration where users can clone, fork, and contribute to the project while maintaining transparency and accessibility.
+![Repositories]()
 
 # Connecting My Project With CodeArtifact
 
@@ -47,6 +49,7 @@ They include:
 2. repository URLs
 
 3. permissions for secure and efficient package retrieval
+![settings.xml]()
 
 # Testing the Connection
 
@@ -60,6 +63,7 @@ Compiling means converting source code into machine code or bytecode that can be
 
 After compiling, I checked the local project directory and the GitHub repository.
 The project was up to date with the latest changes, and there were no issues or errors related to the compiled code.
+![Testing]()
 
 # Creating IAM Policies
 # Importance of IAM Policies
@@ -71,3 +75,4 @@ This ensures they have appropriate access to resources like CodeArtifact, EC2, o
 
 I defined my IAM policy using JSON.
 This policy allows access to AWS CodeArtifact, including retrieving and publishing packages.
+![IAM policies]()
