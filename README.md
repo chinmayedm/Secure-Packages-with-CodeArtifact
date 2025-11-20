@@ -63,7 +63,7 @@ Compiling means converting source code into machine code or bytecode that can be
 
 After compiling, I checked the local project directory and the GitHub repository.
 The project was up to date with the latest changes, and there were no issues or errors related to the compiled code.
-![Testing]()
+![Testing](https://github.com/chinmayedm/Secure-Packages-with-CodeArtifact/blob/main/Screenshot%202025-11-20%20at%2010.45.14.png?raw=true)
 
 # Creating IAM Policies
 # Importance of IAM Policies
