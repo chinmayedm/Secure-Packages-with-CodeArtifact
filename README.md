@@ -28,7 +28,7 @@ It serves as the primary source of code updates and allows developers to sync th
 
 The public repository is a Git repository accessible to anyone on platforms like GitHub.
 It allows open-source collaboration where users can clone, fork, and contribute to the project while maintaining transparency and accessibility.
-![Repositories]()
+![Repositories](https://github.com/chinmayedm/Secure-Packages-with-CodeArtifact/blob/main/Screenshot%202025-11-20%20at%2010.43.07.png?raw=true)
 
 # Connecting My Project With CodeArtifact
 
