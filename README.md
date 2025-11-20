@@ -49,7 +49,7 @@ They include:
 2. repository URLs
 
 3. permissions for secure and efficient package retrieval
-![settings.xml]()
+![settings-xml](https://github.com/chinmayedm/Secure-Packages-with-CodeArtifact/blob/main/Screenshot%202025-11-20%20at%2010.43.51.png?raw=true)
 
 # Testing the Connection
 
